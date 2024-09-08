@@ -1,4 +1,4 @@
-# Webscraping project copied from Imdad Codes YouTube 
+# Adapted from Webscraping project copied from Imdad Codes YouTube 
 # https://www.google.com/search?q=webscraping+for+beginners&oq=webscraping+for+beginners&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDU5NjJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:44db937e,vid:M37koTo8NjA,st:0
 import webbrowser
 import httpx
